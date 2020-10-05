@@ -1,0 +1,12 @@
+{
+  "name": "jxpr-random",
+  "version": "1.0.2",
+  "main": "jxpr-random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jasper P",
+  "license": "ISC",
+  "description": "Package to get random.. anything."
+}
