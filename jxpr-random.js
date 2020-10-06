@@ -1,5 +1,5 @@
 const Version = "jxpr-random v" + "1.0.2";
-// the functions
+// the functions to get random stuff
 function String(amount) {
     let randomWords = ["fluctuation", "literature", "summary", "reporter", "wardrobe", "channel", "mess", "acquisition", "lose", "slam", "achievement", "mercy", "manual", "lean", "different", "closed", "promise", "grace", "freight", "accurate", "umbrella", "queue", "strike", "twilight", "conspiracy", "ladder", "history", "fiction", "courtesy", "writer", "slot", "content", "beam", "shell", "diamond", "ghostwriter", "abundant", "trivial", "reluctance", "fitness", "reception", "far", "node", "memorial", "econobox", "expect", "trap", "atmosphere", "answer", "undermine", "mutter", "frequency", "grip", "sustain", "earwax", "rent", "discuss", "attract", "fine", "perform", "horizon", "deck", "marine", "disagreement", "register", "registration", "thumb", "verdict", "radio", "prestige", "cycle", "groan", "organize", "define", "despise", "bike", "split", "misery", "at", "file", "cotton", "maze", "plug", "brake", "game", "hate", "profit", "retailer", "right", "dimension", "cucumber", "god", "conventional", "advocate", "unanimous", "contract", "snub", "graphic", "superintendent", "want"];
     let words = [];
